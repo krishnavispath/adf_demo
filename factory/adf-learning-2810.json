@@ -1,0 +1,21 @@
+{
+	"name": "adf-learning-2810",
+	"properties": {
+		"globalParameters": {
+			"email_recepient": {
+				"type": "string",
+				"value": "krishnavispath@gmail.com"
+			}
+		},
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5d596010-4e18-46ea-bd38-bd8a047a6c40",
+		"tenantId": "d3c8f118-30ef-4ffd-90ff-f820c074f2a2"
+	}
+}
