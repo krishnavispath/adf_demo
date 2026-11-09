@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "DB_ADLS",
+				"description": "this is for copy",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
